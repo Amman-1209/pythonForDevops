@@ -1,0 +1,4 @@
+/etc/hostname
+/etc/passwd
+/hjasdfj/jadsdfj
+/etc
